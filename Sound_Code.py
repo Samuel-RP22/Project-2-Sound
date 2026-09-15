@@ -15,7 +15,7 @@ from scipy.signal import butter, lfilter
 
 #Mujeres
 #audio_file = "C:\\Users\\aleja\\OneDrive\\Documents\\ELECTIVA 2\\PROJECT2\\Mujer1.ogg"
-audio_file = "C:\\Users\\aleja\\OneDrive\\Documents\\ELECTIVA 2\\PROJECT2\\Mujer2.ogg" 
+audio_file = "C:\Users\samue\Desktop\Clases UCO\Electiva\Project-2-Sound\Audio_Files\Mujer2.ogg"
 
 
 y, sr = librosa.load(audio_file, sr=None)
